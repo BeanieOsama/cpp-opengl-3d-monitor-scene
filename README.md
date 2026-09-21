@@ -46,7 +46,7 @@ The completed environment includes:
 
 ## Project Screenshot
 
-![Final 3D Monitor Scene](Graphics_screenshots/final-scene.png)
+![Final 3D Monitor Scene](Graphics%20Screenshots/7.1-final-scene.png)
 
 - 3D coordinate systems
 - Vector and matrix mathematics
