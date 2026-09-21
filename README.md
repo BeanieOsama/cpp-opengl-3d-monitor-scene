@@ -44,9 +44,7 @@ The completed environment includes:
 
 ## Graphics Concepts
 
-## Project Screenshot
-
-![Final 3D Monitor Scene](Graphics%20Screenshots/7.1-final-scene.png)
+This project gave me hands-on experience with:
 
 - 3D coordinate systems
 - Vector and matrix mathematics
@@ -60,6 +58,10 @@ The completed environment includes:
 - Multiple light sources
 - Shader-controlled rendering
 - Debugging graphical and transformation issues
+
+## Project Screenshot
+
+![Final 3D Monitor Scene](Graphics%20Screenshots/7.1-final-scene.png)
 
 ## Scene Design
 
