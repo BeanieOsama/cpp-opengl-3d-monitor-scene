@@ -44,7 +44,9 @@ The completed environment includes:
 
 ## Graphics Concepts
 
-This project gave me hands-on experience with:
+## Project Screenshot
+
+![Final 3D Monitor Scene](Graphics-screenshots/final-scene.png)
 
 - 3D coordinate systems
 - Vector and matrix mathematics
